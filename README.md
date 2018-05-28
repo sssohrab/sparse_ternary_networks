@@ -1,5 +1,5 @@
 # sparse_ternary_networks
-A package for compressievly represent data for fast similarity search.
+A package to compressievly represent data for fast similarity search.
 
 ## Installation:
 Simply clone the package and add it into your Python 3 path.
